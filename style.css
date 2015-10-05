@@ -1,0 +1,133 @@
+body {
+	width: 100%;
+	background-color: #03060b;
+	background-image: url(Desktop-Space-HD-Wallpapers.jpg);
+	background-attachment: fixed;
+	color: white;
+	text-align: left;
+	line-height: 1.5;
+}
+h1, h2, h3, h4, h5, h6 {
+	text-transform: uppercase;
+	text-align: center;
+	color: #BFD041;
+	clear: both;
+	}
+table {
+	font-size: 14px;
+	border: 1px #BFD041;
+	width: 700px;
+	margin: 35px auto;
+	}
+table td, th, tr {
+	background-color: rgba(0, 0, 0, 0.5);
+	border: 2px solid #BFD041;
+	padding: 10px;
+	 }
+.block {
+	width: 700px;
+	margin: 0 auto;
+}
+p.quote {
+	font-size: 40px;
+	color: white;
+	padding: 40px;
+	text-align: center;
+}
+a {
+	font-size: 22px;
+	margin: 40px auto;
+	}
+a:link {
+	text-decoration: none;
+	font-size: 14px;
+	color: #BFD041;
+}	
+a:visited {
+	text-decoration: none;
+	color: #BFD041;
+	font-size: 14px;	
+}
+a:hover {
+	text-decoration: underline;
+	color: #BFD041;
+}
+
+ol {
+	width: 218px;
+	line-height: 2;
+	font-size: 18px;
+	color: #BFD041;
+	text-align: center;
+	margin: 0 205px auto;
+}
+li {
+	font-size: 14px;
+	text-align: left;
+}
+a.img {
+	background-image: url(R2-D2_Droid.png);
+	width: 285px;
+	height: 380px;
+	position: fixed;
+	left: 75%;
+	top: 45%;
+}
+a.img:hover {
+	background-image: url(R2-D2_Droid_hover.png);
+	width: 285px;
+	height: 380px;
+	position: fixed;
+	left: 75%;
+	top: 45%;
+}
+.col1 {
+	width: 220px;
+}
+ul li {
+	font-size: 16px;
+	width: 500px;
+	text-align: left;
+	margin: 0 auto;
+}
+.row1 {
+	width: 960px;
+	margin: 0 auto;
+	padding: 40px 40px;
+		}
+.col-md-1 {
+	width: 320px;
+	height: 300px;
+	float: left;
+}
+.row {
+	margin: 40px;
+}
+.col-md-8 {
+	width: 640px;
+	height: 100px;
+	margin: 5px;
+	float: left;
+}
+.img-col-md-1 {
+	width: 300px;
+	height: 300px;
+}
+.img-col-md-2 {
+	width: 300px;
+	height: 148px;
+}
+.img-col-md-8 {
+	width: 640px;
+	height: 100px;
+}
+.img-col-md-4 {
+	width: 300px;
+	height: 95px;
+}
+.img-col-md-5 {
+	width: 300px;
+	height: 100px;
+}
+
+		
